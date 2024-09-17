@@ -4,7 +4,7 @@
 
     Para testar os arquivos em C:
     ```sh
-    gcc test.c
+    gcc ex0x.c
     ./a.out argumento
     ```
 
