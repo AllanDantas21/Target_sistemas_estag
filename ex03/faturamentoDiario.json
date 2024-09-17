@@ -1,0 +1,42 @@
+[
+    {
+        "valor": 1000,
+        "mes": "Janeiro",
+        "dia": 1
+    },
+    {
+        "valor": 1500,
+        "mes": "Janeiro",
+        "dia": 2
+    },
+    {
+        "valor": 2000,
+        "mes": "Janeiro",
+        "dia": 3
+    },
+    {
+        "valor": 2500,
+        "mes": "Janeiro",
+        "dia": 4
+    },
+    {
+        "valor": 3000,
+        "mes": "Janeiro",
+        "dia": 5
+    },
+    {
+        "valor": 0,
+        "mes": "Janeiro",
+        "dia": 6
+    },
+    {
+        "valor": 0,
+        "mes": "Janeiro",
+        "dia": 7
+    },
+    {
+        "valor": 0,
+        "mes": "Janeiro",
+        "dia": 8
+    }
+]
